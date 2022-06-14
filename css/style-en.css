@@ -1,0 +1,83 @@
+/* Start Edit on header */
+
+
+/* .header nav .box-nav ul li:last-child {
+    margin-left: 50px;
+} */
+
+.header nav .box-nav ul li {
+    margin-right: 30px;
+    margin-left: 0px;
+}
+
+
+/* End Edit on header */
+
+
+/* Start Edit on news section*/
+
+.news-sec .boxes .box {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.news-sec .boxes .box .hash-new {
+    left: auto;
+    right: 10px;
+}
+
+
+/* End Edit on news section*/
+
+
+/* Start Edit on Goals section */
+
+.goals-sec .boxes .box img {
+    margin-right: 30px;
+    margin-left: 0px;
+}
+
+
+/* End Edit on Goals section*/
+
+
+/* Start Edit on Comment section */
+
+.comment-sec .boxes .box .content ul li i {
+    padding-right: 5px;
+    padding-left: 0;
+}
+
+
+/* End Edit on Comment section*/
+
+
+/* Start Edit on About section*/
+
+.about-sec .boxes .box .title {
+    text-align: left;
+}
+
+
+/* End Edit on About section*/
+
+
+/* Start Edit on Location section*/
+
+.location-sec .overlay form .email input {
+    padding-left: 16px;
+    padding-right: 0px;
+}
+
+.location-sec .overlay form .email button {
+    transform: rotate(180deg);
+}
+
+
+/* End Edit on Location section*/
+
+
+/* Start Edit on  Footer */
+
+
+/* End  Edit on Footer */
